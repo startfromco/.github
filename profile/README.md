@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/startfromco/.github/main/assets/logo.png" alt="Start From Collective logo" width="120">
-
 # Start From Collective
 
 **The home of open source tooling and products from Start From Collective.**
