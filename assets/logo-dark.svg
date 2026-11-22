@@ -1,16 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Start From Collective">
   <title>Start From Collective</title>
   
-  <defs>
-    <mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
-      <circle cx="256" cy="256" r="237" fill="#fff"/>
-      <circle cx="256" cy="256" r="145" fill="#000"/>
-      <polygon points="218.5,293.5 501.3,576.3 436.3,641.3 153.5,358.5" fill="#000"/>
-      <rect x="256" y="295" width="256" height="79" fill="#000"/>
-    </mask>
-  </defs>
-  <g fill="#FFFFFF" >
-    <rect width="512" height="512" mask="url(#m)"/>
-    <circle cx="256" cy="256" r="58"/>
+  <g >
+    <path d="M343.5 104.4 A175 175 0 1 0 431 256" fill="none" stroke="#FFFFFF" stroke-width="84"/>
+    <circle cx="407.6" cy="168.5" r="42" fill="#FFFFFF"/>
   </g>
 </svg>
