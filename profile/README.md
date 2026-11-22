@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/startfromco/.github/main/assets/logo-dark.svg">
+  <img src="https://raw.githubusercontent.com/startfromco/.github/main/assets/logo-light.svg" alt="Start From Collective logo" width="120">
+</picture>
+
 # Start From Collective
 
 **The home of open source tooling and products from Start From Collective.**
