@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/startfromco/.github/main/assets/logo-dark.svg">
-  <img src="https://raw.githubusercontent.com/startfromco/.github/main/assets/logo-light.svg" alt="Start From Collective logo" width="120">
-</picture>
+<img src="https://raw.githubusercontent.com/startfromco/.github/main/assets/logo.png" alt="Start From Collective logo" width="120">
 
 # Start From Collective
 
